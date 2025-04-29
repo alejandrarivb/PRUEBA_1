@@ -4,6 +4,12 @@ h1{
 	margin-bottom: 2px;
 }
 
+h2{
+	font-size: calibri;
+	text-align: center;
+	color: red;
+}
+
 table{
 	width: 60%;
 }
